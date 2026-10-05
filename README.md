@@ -36,35 +36,16 @@ Key Features:
 
 ## Tools
 
-Contained the dataset
-
-Google Sheets
-
-For performing the machine learning techniques on the dataset
-
-Orange Data Mining and Excel
-
-Canva and MS PowerPoint
-
-For recommendations on how to proceed whenever there was a hurdle while performing the project and clarifying minor doubts
-
-ChatGPT and Gemini
-
-Template for the documentation
+- **Google Sheets**: Contained the dataset
+- **Orange Data Mining and Excel**: For performing the machine learning techniques on the dataset
+- **Canva and MS PowerPoint**: Template for the documentation
+- **ChatGPT and Gemini**: For recommendations on how to proceed whenever there was a hurdle while performing the project and clarifying minor doubts
 
 ## Techniques
 
-Analyzing the dataset
-
-Exploratory Data Analysis (EDA)
-
-To get a visual understanding of how the data is present in all dimensions
-
-K-Means Clustering
-
-Decision Trees
-
-To create a predictive model in order to analyze the financial risk of a new individual who is not present in the given dataset
+- **Exploratory Data Analysis (EDA)**: Analyzing the dataset
+- **K-Means Clustering**: To get a visual understanding of how the data is present in all dimensions
+- **Decision Trees**: To create a predictive model in order to analyze the financial risk of a new individual who is not present in the given dataset
 
 # Exploratory Data Analysis
 
